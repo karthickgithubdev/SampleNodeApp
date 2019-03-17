@@ -1,0 +1,26 @@
+{
+  "name": "sampleapp",
+  "version": "1.0.0",
+  "description": "Sample Nodejs application for Jenkins setup",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "3.12.0"
+  },
+  "devDependencies": {
+    "mocha": "1.20.1",
+    "supertest": "0.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthickgithubdev/SampleNodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthickgithubdev/SampleNodeApp/issues"
+  },
+  "homepage": "https://github.com/karthickgithubdev/SampleNodeApp#readme"
+}
